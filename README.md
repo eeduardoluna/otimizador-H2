@@ -1,4 +1,4 @@
-# H2 Verde Optimizer
+# otimizador H2
 
 Sistema de otimização de produção de hidrogênio verde via Aprendizado por Reforço.
 
