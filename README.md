@@ -14,7 +14,7 @@ Um parque de energia renovável (solar + eólica) alimenta um eletrolisador PEM 
 - Preço spot da energia
 - Nível atual do tanque de H2
 - Carga atual do eletrolisador
-- Previsão das próximas 6 horas
+- Previsão das próximas horas
 
 Com base nisso, decide o percentual de energia destinado à eletrólise (0% a 100%).
 
