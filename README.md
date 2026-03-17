@@ -24,7 +24,7 @@ O agente foi treinado com o algoritmo **SAC (Soft Actor-Critic)** via Stable-Bas
 
 ## Resultados
 
-Comparado a uma regra simples (baseline), o agente obteve **+54% de lucro** no mesmo dia climático, demonstrando capacidade de antecipar variações de preço e geração.
+Comparado a uma regra simples (baseline), o agente obteve um lucro consideravelmente maior no mesmo dia climático, demonstrando capacidade de antecipar variações de preço e geração.
 
 ---
 
